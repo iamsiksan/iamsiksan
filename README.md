@@ -1,6 +1,6 @@
 # Siksan 👋
 
-Frontend developer from Nepal, focused on building clean and user-friendly web experiences.
+Frontend developer , focused on building clean and user-friendly web experiences.
 
 ## Learning
 - React.js
