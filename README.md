@@ -22,7 +22,6 @@ Frontend developer from Nepal, focused on building clean and user-friendly web e
   <img src="https://cdn.simpleicons.org/git/ffffff" width="40" />
   <img src="https://cdn.simpleicons.org/html5/ffffff" width="40" />
   <img src="https://cdn.simpleicons.org/javascript/ffffff" width="40" />
-  <img src="https://cdn.simpleicons.org/photoshop/ffffff" width="40" />
   <img src="https://cdn.simpleicons.org/react/ffffff" width="40" />
   <img src="https://cdn.simpleicons.org/redux/ffffff" width="40" />
   <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" width="40" />
