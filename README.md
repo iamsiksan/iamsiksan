@@ -1,5 +1,5 @@
-# 💫 About Me:
-# Hi there 👋, I’m iamsiksan<br><br>- 🔭 I’m currently working on **frontend development with ReactJS**<br>- 🌱 I’m currently learning **React**<br>- 👯 I’m not looking for collaboration at the moment<br>- 💬 Ask me about **all things web development**<br>- 📫 How to reach me: **siksanlearns@gmail.com**<br>- ⚡ Fun fact: I’m into **movies, anime, and mor**<br>
+## 💫 About Me:
+## Hi there 👋, I’m iamsiksan<br><br>- 🔭 I’m currently working on **frontend development with ReactJS**<br>- 🌱 I’m currently learning **React**<br>- 👯 I’m not looking for collaboration at the moment<br>- 💬 Ask me about **all things web development**<br>- 📫 How to reach me: **siksanlearns@gmail.com**<br>- ⚡ Fun fact: I’m into **movies, anime, and mor**<br>
 
 
 # 💻 Tech Stack:
